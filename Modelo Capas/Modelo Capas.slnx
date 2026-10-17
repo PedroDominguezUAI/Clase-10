@@ -2,5 +2,6 @@
   <Project Path="BLL/BLL.csproj" />
   <Project Path="DAL/DAL.csproj" />
   <Project Path="Entity/Entity.csproj" />
+  <Project Path="Mapper/Mapper.csproj" Id="ba1431fa-47d2-4098-aa5a-7dada7f38d2b" />
   <Project Path="Modelo Capas/Modelo Capas.csproj" />
 </Solution>

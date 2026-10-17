@@ -21,3 +21,16 @@ C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\Entity\obj\Debug\net10.0\
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\Entity\obj\Debug\net10.0\Entity.pdb
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\Entity\obj\Debug\net10.0\ref\Entity.dll
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\Entity\obj\Debug\net10.0\Entity.csproj.Up2Date
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\bin\Debug\net10.0\Entity.deps.json
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\bin\Debug\net10.0\Entity.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\bin\Debug\net10.0\Entity.pdb
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\Entity.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\Entity.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\Entity.sourcelink.json
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\Entity.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\refint\Entity.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\Entity.pdb
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\ref\Entity.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\Entity\obj\Debug\net10.0\Entity.csproj.Up2Date

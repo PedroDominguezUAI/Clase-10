@@ -30,7 +30,7 @@ namespace BLL
             {
                 throw new Exception("No puede estar vacio el importe ni ser 0");
             }
-            if (alquiler.Tipo_Bicicleta1 == 0)
+            if (alquiler.Tipo_Bicicleta1.ID_Tipo1 == 0)
             {
                 throw new Exception("No puede estar vacio el Tipo de Bicicleta");
             }

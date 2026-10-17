@@ -32,3 +32,6 @@ C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\BLL\obj\Debug\net10.0\BLL
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\BLL\obj\Debug\net10.0\refint\BLL.dll
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\BLL\obj\Debug\net10.0\BLL.pdb
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\BLL\obj\Debug\net10.0\ref\BLL.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\BLL\obj\Debug\net10.0\BLL.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\BLL\obj\Debug\net10.0\refint\BLL.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\BLL\obj\Debug\net10.0\BLL.pdb

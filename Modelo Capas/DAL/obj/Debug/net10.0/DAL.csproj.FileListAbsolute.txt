@@ -28,3 +28,6 @@ C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\DAL\obj\Debug\net10.0\DAL
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\DAL\obj\Debug\net10.0\refint\DAL.dll
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\DAL\obj\Debug\net10.0\DAL.pdb
 C:\Users\pedro\Desktop\Desarrollo\Parcial\Modelo Capas\DAL\obj\Debug\net10.0\ref\DAL.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\DAL\obj\Debug\net10.0\DAL.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\DAL\obj\Debug\net10.0\refint\DAL.dll
+C:\Users\pedro\Desktop\Desarrollo\Parcial\Git\Clase-10\Modelo Capas\DAL\obj\Debug\net10.0\DAL.pdb

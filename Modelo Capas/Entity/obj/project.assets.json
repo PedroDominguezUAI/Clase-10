@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Entity\\Entity.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Entity\\Entity.csproj",
+      "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\Entity.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Entity\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

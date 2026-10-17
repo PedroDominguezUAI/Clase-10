@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1oO9SRft15E=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\BLL\\BLL.csproj",
+  "dgSpecHash": "7Uzft5obbTQ=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.13\\microsoft.bcl.cryptography.9.0.13.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.data.sqlclient\\7.0.2\\microsoft.data.sqlclient.7.0.2.nupkg.sha512",
@@ -28,5 +28,41 @@
     "C:\\Users\\pedro\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.13\\system.security.cryptography.pkcs.9.0.13.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.12\\system.security.cryptography.protecteddata.10.0.12.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.13 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2fmv-rv2c-59x7",
+      "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.13 has a known high severity vulnerability, https://github.com/advisories/GHSA-846f-f764-76mx",
+      "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: Microsoft.Data.SqlClient from 7.1.1 to 7.0.2. Reference the package directly from the project to select a different version. \r\n BLL -> DAL -> Mapper -> Microsoft.Data.SqlClient (>= 7.1.1) \r\n BLL -> DAL -> Microsoft.Data.SqlClient (>= 7.0.2)",
+      "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
+      "filePath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

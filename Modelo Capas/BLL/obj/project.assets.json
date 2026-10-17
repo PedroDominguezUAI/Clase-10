@@ -467,6 +467,7 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Entity": "1.0.0",
+          "Mapper": "1.0.0",
           "Microsoft.Data.SqlClient": "7.0.2",
           "System.Configuration.ConfigurationManager": "10.0.12"
         },
@@ -485,6 +486,20 @@
         },
         "runtime": {
           "bin/placeholder/Entity.dll": {}
+        }
+      },
+      "Mapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Entity": "1.0.0",
+          "Microsoft.Data.SqlClient": "7.1.1"
+        },
+        "compile": {
+          "bin/placeholder/Mapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mapper.dll": {}
         }
       }
     }
@@ -1213,6 +1228,11 @@
       "type": "project",
       "path": "../Entity/Entity.csproj",
       "msbuildProject": "../Entity/Entity.csproj"
+    },
+    "Mapper/1.0.0": {
+      "type": "project",
+      "path": "../Mapper/Mapper.csproj",
+      "msbuildProject": "../Mapper/Mapper.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1228,11 +1248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1254,11 +1274,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\DAL\\DAL.csproj"
+            "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Entity\\Entity.csproj"
+            "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\Entity.csproj"
             }
           }
         }
@@ -1572,5 +1592,36 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.13 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2fmv-rv2c-59x7",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.13 has a known high severity vulnerability, https://github.com/advisories/GHSA-846f-f764-76mx",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: Microsoft.Data.SqlClient from 7.1.1 to 7.0.2. Reference the package directly from the project to select a different version. \r\n BLL -> DAL -> Mapper -> Microsoft.Data.SqlClient (>= 7.1.1) \r\n BLL -> DAL -> Microsoft.Data.SqlClient (>= 7.0.2)",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

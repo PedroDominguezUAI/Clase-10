@@ -1,38 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\modelo capas\\dal\\alquilerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\alquilerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\modelo capas\\dal\\tipobicicletadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\tipobicicletadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\modelo capas\\bll\\alquilerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\alquilerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23FEB6E8-742C-6BD3-99DA-EA3EFF6429D4}|Modelo Capas\\Modelo Capas.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\modelo capas\\modelo capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23FEB6E8-742C-6BD3-99DA-EA3EFF6429D4}|Modelo Capas\\Modelo Capas.csproj|solutionrelative:modelo capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23FEB6E8-742C-6BD3-99DA-EA3EFF6429D4}|Modelo Capas\\Modelo Capas.csproj|C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\modelo capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{23FEB6E8-742C-6BD3-99DA-EA3EFF6429D4}|Modelo Capas\\Modelo Capas.csproj|C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\modelo capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{23FEB6E8-742C-6BD3-99DA-EA3EFF6429D4}|Modelo Capas\\Modelo Capas.csproj|solutionrelative:modelo capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\modelo capas\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\dal\\alquilerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\alquilerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1431FA-47D2-4098-AA5A-7DADA7F38D2B}|Mapper\\Mapper.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\mapper\\alquilermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1431FA-47D2-4098-AA5A-7DADA7F38D2B}|Mapper\\Mapper.csproj|solutionrelative:mapper\\alquilermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\bll\\alquilerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\alquilerbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\entity\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|solutionrelative:entity\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\entity\\tipobicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|solutionrelative:entity\\tipobicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\dal\\tipobicicletadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\tipobicicletadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEB6E8-742C-6BD3-99DA-EA3EFF6429D4}|Modelo Capas\\Modelo Capas.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\modelo capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FEB6E8-742C-6BD3-99DA-EA3EFF6429D4}|Modelo Capas\\Modelo Capas.csproj|solutionrelative:modelo capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\modelo capas\\bll\\tipobicicletabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\git\\clase-10\\modelo capas\\bll\\tipobicicletabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\tipobicicletabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|c:\\users\\pedro\\desktop\\desarrollo\\parcial\\modelo capas\\entity\\tipobicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B15E00-5038-90E9-2F7A-EFF10A915A83}|Entity\\Entity.csproj|solutionrelative:entity\\tipobicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,27 +50,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Modelo Capas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Modelo Capas\\Form1.cs",
               "RelativeDocumentMoniker": "Modelo Capas\\Form1.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Modelo Capas\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Modelo Capas\\Form1.cs [Design]",
               "RelativeToolTip": "Modelo Capas\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T22:20:33.824Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Modelo Capas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Modelo Capas\\Form1.cs",
               "RelativeDocumentMoniker": "Modelo Capas\\Form1.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Modelo Capas\\Form1.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Modelo Capas\\Form1.cs",
               "RelativeToolTip": "Modelo Capas\\Form1.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,13 +80,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AlquilerMapper.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Mapper\\AlquilerMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\AlquilerMapper.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Mapper\\AlquilerMapper.cs",
+              "RelativeToolTip": "Mapper\\AlquilerMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:09:42.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AlquilerDAO.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\DAL\\AlquilerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\DAL\\AlquilerDAO.cs",
               "RelativeDocumentMoniker": "DAL\\AlquilerDAO.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\DAL\\AlquilerDAO.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\DAL\\AlquilerDAO.cs",
               "RelativeToolTip": "DAL\\AlquilerDAO.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwEUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA/wB4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T23:48:00.993Z",
               "EditorCaption": ""
@@ -85,37 +107,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TipoBicicletaBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\BLL\\TipoBicicletaBusiness.cs",
-              "RelativeDocumentMoniker": "BLL\\TipoBicicletaBusiness.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\BLL\\TipoBicicletaBusiness.cs",
-              "RelativeToolTip": "BLL\\TipoBicicletaBusiness.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T23:07:18.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TipoBicicletaDAO.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\DAL\\TipoBicicletaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\DAL\\TipoBicicletaDAO.cs",
               "RelativeDocumentMoniker": "DAL\\TipoBicicletaDAO.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\DAL\\TipoBicicletaDAO.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\DAL\\TipoBicicletaDAO.cs",
               "RelativeToolTip": "DAL\\TipoBicicletaDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T23:02:18.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T23:02:18.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AlquilerBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\BLL\\AlquilerBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\AlquilerBusiness.cs",
               "RelativeDocumentMoniker": "BLL\\AlquilerBusiness.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\BLL\\AlquilerBusiness.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\AlquilerBusiness.cs",
               "RelativeToolTip": "BLL\\AlquilerBusiness.cs",
-              "ViewState": "AgIAADQAAAAAjuM4VlUvwEQAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T22:38:12.785Z",
               "EditorCaption": ""
@@ -123,26 +132,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "TipoBicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\TipoBicicleta.cs",
+              "RelativeDocumentMoniker": "Entity\\TipoBicicleta.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\TipoBicicleta.cs",
+              "RelativeToolTip": "Entity\\TipoBicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:09:23.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\Alquiler.cs",
+              "RelativeDocumentMoniker": "Entity\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\Entity\\Alquiler.cs",
+              "RelativeToolTip": "Entity\\Alquiler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:04:30.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoBicicletaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\TipoBicicletaBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\TipoBicicletaBusiness.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\BLL\\TipoBicicletaBusiness.cs",
+              "RelativeToolTip": "BLL\\TipoBicicletaBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T23:07:18.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DbConnection.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\DAL\\DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\DAL\\DbConnection.cs",
               "RelativeDocumentMoniker": "DAL\\DbConnection.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\DAL\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Git\\Clase-10\\Modelo Capas\\DAL\\DbConnection.cs",
               "RelativeToolTip": "DAL\\DbConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T22:29:44.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TipoBicicleta.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Entity\\TipoBicicleta.cs",
-              "RelativeDocumentMoniker": "Entity\\TipoBicicleta.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Desarrollo\\Parcial\\Modelo Capas\\Entity\\TipoBicicleta.cs",
-              "RelativeToolTip": "Entity\\TipoBicicleta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T23:09:23.737Z"
             }
           ]
         }
